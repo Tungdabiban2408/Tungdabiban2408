@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/Tungdabiban248/my-another-repo/main/2ff428006f3ade5f10beac69372062ab.gif)
 ## 🌐Socials
-[!(https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]
+[![update28112022](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100085638253371) 
 
 # 💻Tech Stack
